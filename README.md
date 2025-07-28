@@ -5,7 +5,7 @@ Welcome to the Flarpy-Blorb! This project is a simple Unity game, designed to de
 
 ## Demo
 
-![Game Demo](path/to/demo.gif)
+![Game Demo](Docs/demo.gif)
 
 ## Features
 
